@@ -567,12 +567,12 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_ott.mpd
 #EXTINF:-1 tvg-id="413" tvg-logo="http://linear-poster.astro.com.my/prod/logo/ShowcaseMovies.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 MOVIES (ASTRO GO)",SHOWCASE MOVIES
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_ott.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/bJHjcpzW/20220927-135948.png" group-title="Channel MOVIE (international)",SONY PIX
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/bJHjcpzW/20220927-135948.png" group-title="🇲🇾 ENTERTAINMENT (ASTRO GO),SONY PIX
 https://tv.googledrivelinks.com/live.php?c=Sony_Pix_HD&amp;q=400&amp;e=.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tgRZfkjt/20220926-161550.png" group-title="Channel MOVIE (international)" tvg-id="Thrill.hk" tvg-name="Thrill", Thrill
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tgRZfkjt/20220926-161550.png" group-title="🇲🇾 ENTERTAINMENT (ASTRO GO)" tvg-id="Thrill.hk" tvg-name="Thrill", Thrill
 http://iptvmedia.live:8080/F22230/6e9e8ce0/157580
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -641,7 +641,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0bea88ab972e06760a04712cc423d841&amp;key=4039d607f88f1b1f677e4beb6ee66637
-#EXTINF:-1 tvg-id="MusicTV.id" tvg-logo="http://dusktill.masuk.web.id/img/musictv.png" group-title="VARIETY",MUSIC TV
+#EXTINF:-1 tvg-id="MusicTV.id" tvg-logo="http://dusktill.masuk.web.id/img/musictv.png" group-title="🇲🇾 ENTERTAINMENT (ASTRO GO)",MUSIC TV
 https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -813,7 +813,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5024/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=e3cb7499710786eb105fab7b52459910:8ab093adabdc343b8734b7ecf0aea11a
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5067/default_ott.mpd
 
-#EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="Baby TV Asia" group-title="KIDS" tvg-logo="https://poster.starhubgo.com/Linear_channels2/302_1920x1080_HTV.png",Baby TV HD
+#EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="Baby TV Asia" group-title="🇲🇾 KIDS (ASTRO GO)" tvg-logo="https://poster.starhubgo.com/Linear_channels2/302_1920x1080_HTV.png",Baby TV HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
@@ -825,18 +825,18 @@ https://akamai.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
 #EXTINF:-1 tvg-id="619" tvg-name="Boomerang HD" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 KIDS (ASTRO GO)" tvg-logo="https://iili.io/1Nol0Q.png",Boomerang HD 
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2408/default.mpd
 
-#EXTINF:-1 tvg-name="Baby Shark TV" tvg-logo="https://i.pinimg.com/564x/8b/e3/3b/8be33b465d4107ba57e33073431dc9b5.jpg" group-title="KIDS", Baby Shark TV
+#EXTINF:-1 tvg-name="Baby Shark TV" tvg-logo="https://i.pinimg.com/564x/8b/e3/3b/8be33b465d4107ba57e33073431dc9b5.jpg" group-title="🇲🇾 KIDS (ASTRO GO)", Baby Shark TV
 https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/LEGO_logo.svg/220px-LEGO_logo.svg.png" group-title="KIDS", Lego Channel
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/LEGO_logo.svg/220px-LEGO_logo.svg.png" group-title="🇲🇾 KIDS (ASTRO GO)", Lego Channel
 https://d34enhfsgjw5ti.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LEGO2-prod/1e7ac04f-874e-4020-8b31-3fab2ead58a5/0.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://ml.globenewswire.com/Resource/Download/e7431928-b552-41fc-87d8-b69238e00c50?size=3.jpg" group-title="KIDS", Kidoodle TV
+#EXTINF:-1 tvg-name="" tvg-logo="https://ml.globenewswire.com/Resource/Download/e7431928-b552-41fc-87d8-b69238e00c50?size=3.jpg" group-title="🇲🇾 KIDS (ASTRO GO)", Kidoodle TV
 https://kidoodletv-kdtv-1-us.samsung.wurl.tv/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="CBeebiesAsia.uk" tvg-logo=" https://i.postimg.cc/L6bzVyH2/Cbeebies-BBC.png " group-title="KIDS", CBeebies BBC
+#EXTINF:-1 tvg-id="CBeebiesAsia.uk" tvg-logo=" https://i.postimg.cc/L6bzVyH2/Cbeebies-BBC.png " group-title="🇲🇾 KIDS (ASTRO GO)", CBeebies BBC
 https://anevia114.mncnow.id:443/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
 ====================================================================================================================================
 
@@ -853,7 +853,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
-#EXTINF:-1 tvg-id="BeInSports1Indonesia.qa" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/BeINSports1.png" group-title="SPORTS",BEIN SPORTS 1
+#EXTINF:-1 tvg-id="BeInSports1Indonesia.qa" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/BeINSports1.png" group-title="🇲🇾 SPORTS (ASTRO GO)",BEIN SPORTS 1
 https://liveanevia.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -874,7 +874,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2100/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-#EXTINF:-1 tvg-id="FightSports.us" tvg-logo="https://fightsports.tv/wp-content/uploads/fightsports140-logo-rr-2.png" group-title="SPORTS",FIGHT SPORTS
+#EXTINF:-1 tvg-id="FightSports.us" tvg-logo="https://fightsports.tv/wp-content/uploads/fightsports140-logo-rr-2.png" group-title="🇲🇾 SPORTS (ASTRO GO)",FIGHT SPORTS
 https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -884,7 +884,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 tvg-id="SoccerChannel.id" tvg-logo="https://www.mncchannels.com/timthumb.php?zc=3&amp;w=378&amp;h=129&amp;src=/files/logo/1601971751_logo_SOCCERchannel[logo-png].png" group-title="SPORTS",SOCCER CHANNEL
+#EXTINF:-1 tvg-id="SoccerChannel.id" tvg-logo="https://www.mncchannels.com/timthumb.php?zc=3&amp;w=378&amp;h=129&amp;src=/files/logo/1601971751_logo_SOCCERchannel[logo-png].png" group-title="🇲🇾 SPORTS (ASTRO GO",SOCCER CHANNEL
 https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1182,7 +1182,7 @@ https://aqfadtv.xyz/live/unifitv/degup/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fc23c442355854992a264931a28fc1c5:3a3368fa385a049695ff4de3c36809cd
 #EXTINF:-1 tvg-id="121" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/unifi%20tv%20logo%20petak.png" group-title="🇲🇾 MALAYSIA(ASTRO GO)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/SIAR_%28TV_logo%29.png/revision/latest?cb=20220902115129",SIAR
-#EXTINF:-1 group-title="UNIFI TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/SIAR_%28TV_logo%29.png/revision/latest/scale-to-width-down/300?cb=20220902115129", Siar
+#EXTINF:-1 group-title="🇲🇾 MALAYSIA(ASTRO GO)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/SIAR_%28TV_logo%29.png/revision/latest/scale-to-width-down/300?cb=20220902115129", Siar
 https://unifi-live02.secureswiftcontent.com/UnifiHD/live31.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
