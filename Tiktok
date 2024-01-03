@@ -10,7 +10,7 @@ https://live.mana2.my/SukeTV/index.m3u8?organizationId=196288014&suiteItemId=196
 #https://raw.githubusercontent.com/AqFad2811/randomlivefromyt2/main/SukeTV.m3u8
 
 
-#EXTM3U billed-msg=" PLAYLIST INI TRIAL SAHAJA INGIN MENDAPATKAN YG PREMIUM SILA PM tiktok.com/@ottiptv "
+#EXTM3U billed-msg=" INI TRIAL INGIN MENDAPATKAN YG PRIMEUM PM tiktok.com/@ottiptv "
 
 ==========================================================================================================
 
@@ -567,7 +567,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_ott.mpd
 #EXTINF:-1 tvg-id="413" tvg-logo="http://linear-poster.astro.com.my/prod/logo/ShowcaseMovies.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 MOVIES (ASTRO GO)",SHOWCASE MOVIES
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_ott.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/bJHjcpzW/20220927-135948.png" group-title="🇲🇾 ENTERTAINMENT (ASTRO GO),SONY PIX
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/bJHjcpzW/20220927-135948.png" group-title="🇲🇾 ENTERTAINMENT (ASTRO GO)",SONY PIX
 https://tv.googledrivelinks.com/live.php?c=Sony_Pix_HD&amp;q=400&amp;e=.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
