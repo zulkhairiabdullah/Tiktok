@@ -830,19 +830,19 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/5075/default_ott.mpd
 
 ======sport=====
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="âš½ï¸Ž SPORTS" group-logo="" tvg-logo="https://perfecttv.net/logo/sukanrtm.png", 700 RTM Sukan
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS" group-logo="" tvg-logo="https://perfecttv.net/logo/sukanrtm.png", 700 RTM Sukan
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 
-#EXTINF:-1 tvg-id="AstroArena" tvg-name="Astro Arena HD" group-title="âš½ï¸Ž SPORTS" group-logo="" tvg-logo="https://perfecttv.net/logo/arena.png",801 Arena
+#EXTINF:-1 tvg-id="AstroArena" tvg-name="Astro Arena HD" group-title="SPORTS" group-logo="" tvg-logo="https://perfecttv.net/logo/arena.png",801 Arena
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=efda647dad723563b625be8c05ee6110:6776985938b332164b97b81fe566a34a
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_ott.mpd
 
-#EXTINF:-1 tvg-id="AstroSupersportUHD" tvg-name="Astro UHD" group-title="âš½ï¸Ž SPORTS"  tvg-logo="https://perfecttv.net/logo/sportuhd.png",805 Astro UHD
+#EXTINF:-1 tvg-id="AstroSupersportUHD" tvg-name="Astro UHD" group-title="SPORTS"  tvg-logo="https://perfecttv.net/logo/sportuhd.png",805 Astro UHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -850,7 +850,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=8ac8b2f7af05ad829805345a517bc110:ee1ae1cd086fa9bfc0505e6d5e9e27e9
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/1600/default_ott.mpd
 
-#EXTINF:-1 tvg-id="AstroSupersportUHD" tvg-name="Astro UHD" group-title="âš½ï¸Ž SPORTS"  tvg-logo="https://perfecttv.net/logo/premierleague3.png",808 Premier League 3
+#EXTINF:-1 tvg-id="AstroSupersportUHD" tvg-name="Astro UHD" group-title="SPORTS"  tvg-logo="https://perfecttv.net/logo/premierleague3.png",808 Premier League 3
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -858,63 +858,63 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/1600/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=1ece3ecb41699e855c6dc9a283908210:ba08be767e1a5e89777e68a6998a8c19
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5108/default_ott.mpd
 
-#EXTINF:-1 group-logo="" group-title="âš½ï¸Ž SPORTS" tvg-id="814.astro" tvg-logo="https://perfecttv.net/logo/football.png" group-logo="",809 Astro Football
+#EXTINF:-1 group-logo="" group-title="SPORTS" tvg-id="814.astro" tvg-logo="https://perfecttv.net/logo/football.png" group-logo="",809 Astro Football
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=79f4028730acca9ab8b00f26158ddb10:91febe843c08c7cc523efd827292e40e
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_ott.mpd
 
-#EXTINF:-1 group-logo="" group-title="âš½ï¸Ž SPORTS" tvg-id="814.astro" tvg-logo="https://perfecttv.net/logo/badminton.png" group-logo="",809 Astro Badminton
+#EXTINF:-1 group-logo="" group-title="SPORTS" tvg-id="814.astro" tvg-logo="https://perfecttv.net/logo/badminton.png" group-logo="",809 Astro Badminton
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ff0e040d544ec3f02243865990f0c10:83728b47019abdbb37aa36ed5f2951bd
 http://linearjitp-playback.astro.com.my/dash-wv/dashiso/5170/default_ott.mpd
 
-#EXTINF:-1 group-logo="" group-title="âš½ï¸Ž SPORTS" tvg-id="814.astro" tvg-logo="https://perfecttv.net/logo/badminton2.png" group-logo="",809 Astro Badminton 2
+#EXTINF:-1 group-logo="" group-title="SPORTS" tvg-id="814.astro" tvg-logo="https://perfecttv.net/logo/badminton2.png" group-logo="",809 Astro Badminton 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=72ad6eaa1904540138487fffa3ad6510:17c19ad670a557e6882419d6923fad27
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5172/default_ott.mpd
 
-#EXTINF:-1 group-logo="" group-title="âš½ï¸Ž SPORTS" tvg-id="814.astro" tvg-logo="https://perfecttv.net/logo/sportplus.png" group-logo="",809 Astro Sport Plus
+#EXTINF:-1 group-logo="" group-title="SPORTS" tvg-id="814.astro" tvg-logo="https://perfecttv.net/logo/sportplus.png" group-logo="",809 Astro Sport Plus
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=81352bc47ec1177b321ee65ac1be7f10:c8b886142005d7e5067c8717777eaac4
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5171/default_ott.mpd
 
-#EXTINF:-1 group-logo="" group-title="âš½ï¸Ž SPORTS" tvg-id="814.astro" tvg-logo="https://perfecttv.net/logo/astrocricket.png" group-logo="",809 Astro Cricket
+#EXTINF:-1 group-logo="" group-title="SPORTS" tvg-id="814.astro" tvg-logo="https://perfecttv.net/logo/astrocricket.png" group-logo="",809 Astro Cricket
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_ott.mpd
 
-#EXTINF:-1 group-logo="" group-title="âš½ï¸Ž SPORTS" tvg-id="816.astro" tvg-logo="https://perfecttv.net/logo/spotv.png" group-logo="", 810 SPOTV
+#EXTINF:-1 group-logo="" group-title="SPORTS" tvg-id="816.astro" tvg-logo="https://perfecttv.net/logo/spotv.png" group-logo="", 810 SPOTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c0e1804aa1d9fd9c41c41bf0f61a5f10:758823e4eabb6e4c8c036d073db46b8c
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_ott.mpd
 
-#EXTINF:-1 group-logo="" group-title="âš½ï¸Ž SPORTS" tvg-id="810.astro" tvg-logo="https://perfecttv.net/logo/spotv2.png" group-logo="", 811 SPOTV 2 
+#EXTINF:-1 group-logo="" group-title="SPORTS" tvg-id="810.astro" tvg-logo="https://perfecttv.net/logo/spotv2.png" group-logo="", 811 SPOTV 2 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5efd26da5001363b4d6fa4a9c812ad10:ed6d67d953d14b026b2602cf8846577e
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5079/default_ott.mpd
 
-#EXTINF:-1 tvg-id="708.unifi" ch-number="708" tvg-name="beIN Sports" tvg-logo="https://perfecttv.net/logo/bein1.png" group-title="âš½ï¸Ž SPORTS",812 beIN 1
+#EXTINF:-1 tvg-id="708.unifi" ch-number="708" tvg-name="beIN Sports" tvg-logo="https://perfecttv.net/logo/bein1.png" group-title="SPORTS",812 beIN 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a655189ab5c49eb235308c2b1a9e710:3c4508af348844107f5e026a4fd6b16e
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_ott.mpd
 
-#EXTINF:-1 player-buffer="2" tvg-id="817.astro" ch-number="711" tvg-name="beIN Sports 2" tvg-logo="https://perfecttv.net/logo/bein2.png" group-title="âš½ï¸Ž SPORTS",813 beIN 2
+#EXTINF:-1 player-buffer="2" tvg-id="817.astro" ch-number="711" tvg-name="beIN Sports 2" tvg-logo="https://perfecttv.net/logo/bein2.png" group-title="SPORTS",813 beIN 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39c175581e237eff9559607eb9b23c10:5102b12aac7756c65dcb46a101d960d3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default_ott.mpd
 
-#EXTINF:-1 group-logo="" group-title="âš½ï¸Ž SPORTS" tvg-id="819.astro" tvg-logo="https://perfecttv.net/logo/bein3.png" group-logo="", 813 beIN 3
+#EXTINF:-1 group-logo="" group-title="SPORTS" tvg-id="819.astro" tvg-logo="https://perfecttv.net/logo/bein3.png" group-logo="", 813 beIN 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=20c884ef8ed26b2762f8b1a78f2d1910:042a21bf236ca729b1e343ed6e0a6337
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_ott.mpd
 
-#EXTINF:-1 tvg-id="710.unifi" ch-number="710" tvg-logo="https://perfecttv.net/logo/bein4.png" group-title="âš½ï¸Ž SPORTS",813 beIN 4
+#EXTINF:-1 tvg-id="710.unifi" ch-number="710" tvg-logo="https://perfecttv.net/logo/bein4.png" group-title="SPORTS",813 beIN 4
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -923,42 +923,42 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_ott.mpd
 https://web.hypp.tv/PLTV/88888888/224/3221227937/3221227937.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawRjfkMvdAX9TZ5I%2BbsmfrU7%2B8kYXzOcpo3wc%2BwgB1By0rcymHBIhx5oJP4jv2fPK0%3D%3A20230206102855%3AUTC%2C1003663983%2C115.164.187.20%2C20230206102855%2Curn:Huawei:liveTV:XTV57682031%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwY6CMBRF_6bLpn10wC660piYTHASGbfmUR6VWKi2QDJ_P6K4vfeemzNGtHTYGRKbPMu0shsAVdu2FlDkYNtMo4RaS5boUQYDzKL33eDK0CzY-bS9SMEFB5BcAquWu71Hty7Lqa8pmuyDnSjOnSXTpJbPmDg6F8nh2IWB_3j8-41-nTCqVjWZF1-5FqoApTQbl7TCdHs27IppG_o7Rmq-g3sBpkWfiN3R3tBRiT2ZYfL-zR1j87T5B0NkEFD0AAAA&tenantId=6001
 
 
-#EXTINF:-1 group-logo="" group-title="âš½ï¸Ž SPORTS" tvg-id="815.astro" tvg-logo="https://perfecttv.net/logo/wsport.png" group-logo="" , 814 W-Sport
+#EXTINF:-1 group-logo="" group-title="SPORTS" tvg-id="815.astro" tvg-logo="https://perfecttv.net/logo/wsport.png" group-logo="" , 814 W-Sport
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=010cbb9cf1a01ead38070730d38bc710:9cd5c0d1e54c22e035d88dd3c1dfc84c
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5060/default_ott.mpd
 
-#EXTINF:-1 group-logo="" group-title="âš½ï¸Ž SPORTS" tvg-id="823.astro" tvg-logo="https://perfecttv.net/logo/premiersports.png" ,815 Premier Sports
+#EXTINF:-1 group-logo="" group-title="SPORTS" tvg-id="823.astro" tvg-logo="https://perfecttv.net/logo/premiersports.png" ,815 Premier Sports
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9bfeb5068725617dbad6338473da6d10:06577ffcc4935ba24aff4c4c9dd6846d
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_ott.mpd
 
-#EXTINF:-1 group-logo="" group-title="âš½ï¸Ž SPORTS" tvg-id="WWENetwork" tvg-logo="https://perfecttv.net/logo/wwe.png" group-logo="", 817 WWE Network
+#EXTINF:-1 group-logo="" group-title="SPORTS" tvg-id="WWENetwork" tvg-logo="https://perfecttv.net/logo/wwe.png" group-logo="", 817 WWE Network
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0cbc4d3b4fbd9af512acb2488bb42910:30528c4ef882954e5707cd1001d66121
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_ott.mpd
 
-#EXTINF:-1 group-logo="" group-title="âš½ï¸Ž SPORTS" tvg-id="822.astro" tvg-logo="https://perfecttv.net/logo/golf.png" group-logo="", 818 Golf
+#EXTINF:-1 group-logo="" group-title="SPORTS" tvg-id="822.astro" tvg-logo="https://perfecttv.net/logo/golf.png" group-logo="", 818 Golf
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=705bab5e645b6d7c95588b29520f8110:28639bcfb5cbee8ff9ca398fcf5bfcd0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1003/default_ott.mpd
 
-#EXTINF:-1 group-logo="" group-title="âš½ï¸Ž SPORTS" tvg-id="820.astro" tvg-logo="https://perfecttv.net/logo/eurosport.png" group-logo="" group-title ="",819 EuroSport
+#EXTINF:-1 group-logo="" group-title="SPORTS" tvg-id="820.astro" tvg-logo="https://perfecttv.net/logo/eurosport.png" group-logo="" group-title ="",819 EuroSport
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4db23a41babfe9afc222a58c59828310:d0e794e3cff564ed2c720a098eb177c7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2100/default_ott.mpd
 
-#EXTINF:-1 group-title="âš½ï¸Ž SPORTS" tvg-id="NBA"  tvg-logo="https://perfecttv.net/logo/nbatv.png",820 NBA TV
+#EXTINF:-1 group-title="SPORTS" tvg-id="NBA"  tvg-logo="https://perfecttv.net/logo/nbatv.png",820 NBA TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/nba/manifest.mpd
 
-#EXTINF:-1 group-title="âš½ï¸Ž SPORTS" tvg-id="Fight Sport"  tvg-logo="https://perfecttv.net/logo/fightsport.png", 821 FIGHT SPORTS
+#EXTINF:-1 group-title="SPORTS" tvg-id="Fight Sport"  tvg-logo="https://perfecttv.net/logo/fightsport.png", 821 FIGHT SPORTS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/fightsport/manifest.mpd
@@ -2000,3 +2000,109 @@ http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/1548.mp4
 http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/1549.mp4
 #EXTINF:-1 tvg-id="" tvg-name="162 Cinemachi Xtra" tvg-logo="https://perfecttv.net/logo/cinemachixtra.png" group-title="MOVIES",162 Cinemachi Xtra
 http://perfecttv.net:8080/Perfecttv/Perfecttv/1554
+
+#EXTM3U
+
+###ONEdrivePERSONAL_5GB###
+
+#EXTINF:-1 group-title="VOD ONEdrive" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/VOD.jpg", SHERIFF 2024 
+https://onedrive-vercel-index-rouge.vercel.app/api/raw/?path=/Sheriff.2024.1080p.mkv
+
+#EXTINF:-1 group-title="VOD ONEdrive" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/VOD.jpg", 3.Idiots.HD
+https://onedrive-vercel-index-pi-lilac.vercel.app/api/raw/?path=/3.Idiots.HD.mkv
+
+#EXTINF:-1 group-title="VOD ONEdrive" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/VOD.jpg", Blue.Beetle.2023
+https://onedrive-vercel-index-pi-lilac.vercel.app/api/raw/?path=/Blue.Beetle.2023.mkv
+
+#EXTINF:-1 group-title="VOD ONEdrive" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/VOD.jpg", Expend4bles.2023
+https://onedrive-vercel-index-pi-lilac.vercel.app/api/raw/?path=/Expend4bles.2023.mkv
+
+#EXTINF:-1 group-title="VOD ONEdrive" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/VOD.jpg", The.Equalizer.3
+https://onedrive-vercel-index-pi-lilac.vercel.app/api/raw/?path=/The.Equalizer.3.mkv
+
+#EXTINF:-1 group-title="VOD ONEdrive" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/VOD.jpg", Transformers.Rise.of.the.Beasts
+https://onedrive-vercel-index-pi-lilac.vercel.app/api/raw/?path=/Transformers.Rise.of.the.Beasts.mkv
+
+#EXTINF:-1 group-title="VOD MiruroTV" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/VOD.jpg", Dan Da Dan Ep5
+https://www113.anzeat.pro/streamhls/91e22e411752c8b91e8cd2c1fb76241a/ep.5.1730392438.1080.m3u8
+
+
+#EXTINF:-1 group-title="VOD MiruroTV" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/VOD.jpg", HAIKYU!! The Dumpster Battle
+https://www114.anzeat.pro/streamhls/133f884b1539527347fc7516d5b7cbd9/ep.1.1730326002.1080.m3u8
+
+
+
+#EXTINF:-1 group-title="VOD ONEdrive" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/VOD.jpg", Meg.2.The.Trench.EngSub
+https://onedrive-vercel-index-pi-lilac.vercel.app/api/raw/?path=/Meg.2.The.Trench.mkv
+
+#EXTINF:-1 group-title="VOD ONEdrive" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/VOD.jpg", The Chosen One 2023 Final Ep
+https://onedrive-vercel-index-pi-lilac.vercel.app/api/raw/?path=/The%20Choosen%20One%20Final%20Ep.mkv
+
+#EXTINF:-1 group-title="VOD ONEdrive" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/VOD.jpg", Venom.Let.There.Be.Carnage.2021.1080p
+http://onedrive-by-aqfadtv-vod.on.drv.tw/VOD/Movies/Venom.Let.There.Be.Carnage.2021.1080p.mkv
+
+#EXTINF:-1 group-title="VOD ONEdrive" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/VOD.jpg", Anwar.The.Untold.Story.2023.1080p.NF.WEB-DL.MalaySub
+https://onedrive-vercel-index-pi-lilac.vercel.app/api/raw/?path=/Anwar.The.Untold.Story.2023.1080p.NF.WEB-DL.MalaySub.mp4
+
+#EXTINF:-1 group-title="VOD ONEdrive" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/VOD.jpg", Mechamato.Movie.2022.1080p.AOTG.WEB-DL
+https://onedrive-vercel-index-pi-lilac.vercel.app/api/raw/?path=/Mechamato.Movie.2022.1080p.AOTG.WEB-DL.mp4
+
+#EXTINF:-1 group-title="VOD ONEdrive" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/VOD.jpg", Arya HD
+https://onedrive-vercel-index-pi-lilac.vercel.app/api/raw/?path=/Arya.mp4
+
+#EXTINF:-1 group-title="VOD ONEdrive" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/VOD.jpg", Gran Turismo 2023
+https://onedrive-vercel-index-pi-lilac.vercel.app/api/raw/?path=/VTT%20Gran%20Turismo%202023.mkv
+
+#EXTINF:-1 group-title="VOD ONEdrive" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/VOD.jpg", Gran Turismo 2023 EngSub
+https://onedrive-vercel-index-pi-lilac.vercel.app/api/raw/?path=/Gran.Turismo.2023.mkv
+
+#EXTINF:-1 group-title="VOD ONEdrive" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/VOD.jpg", Mat.Tudung.Begins.2023.1080p
+https://onedrive-vercel-index-pi-lilac.vercel.app/api/raw/?path=/Mat.Tudung.Begins.2023.1080p.WEB-DL.mp4
+
+#EXTINF:-1 group-title="VOD ONEdrive" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/VOD.jpg", ELEMENTAL 2023 SRT
+https://onedrive-vercel-index-pi-lilac.vercel.app/api/raw/?path=/SRT%20Watch%20Elemental%20Online%20free%20-%20ev01.net.mkv
+
+#EXTINF:-1 group-title="VOD ONEdrive" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/VOD.jpg", POLIS EVO 3 2023
+https://onedrive-vercel-index-rouge.vercel.app/api/raw/?path=/POLIS%20EVO%202023%20AOTG.mkv
+
+#EXTINF:-1 group-title="VOD ONEdrive" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/VOD.jpg", RAHSIA 2023
+https://onedrive-vercel-index-pi-lilac.vercel.app/api/raw/?path=/Rahsia.2023.1080p.WEB-DL.DD5.1.H.264.Quickie4u.mkv
+
+###Gdrive###
+
+#EXTINF:-1 group-title="VOD Gdrive"="724" tvg-logo="",ELEMENTAL 2023 
+https://www.googleapis.com/drive/v3/files/14yXlkZnTrBqr8JOIo4lcoq0UIW4F6M4t?alt=media&key=AIzaSyAawt3K31DprMbNOBFtUPiflcVGvOopgJk
+
+#EXTINF:-1 group-title="VOD Gdrive"="724" tvg-logo="",BLACK WIDOW 2021  
+#http://chilp.it/aaebd39 
+
+###Tele###
+
+#EXTINF:-1 group-title="VOD Tele"="724" tvg-logo="",MAT BOND 2021  
+#https://botxdirect.herokuapp.com/153744019547450785568445404/Mat_Bond_Malaya_2021_1080p_PPVHD_Malay_Hardsub_@portalmalay.mp4 
+
+#EXTINF:-1 group-title="VOD Tele"="724" tvg-logo="",BUSUNG KATAK  
+#https://download.on9.stream/?sig=jE8ZYOLC5r6f8mAJFuCcXoZtVtbqR1kzaDaTdGYIeJUj1HlO1A36lalhR5bc927F2hrtM2YWQjZY-ZucevOgehZUkh7uKizqJJhY7wGqZnq7CaEMWq2ZTuz6qd-nsZQ_pjdnYUJpINCNdt9veURZTs4paALhuVq09aKNWJ2HuKRtx46HD_i_jEzMLNDWmd-v
+
+#EXTINF:-1 group-title="VOD Tele"="724" tvg-logo="",penunggangAgama2021 
+#https://botxdirect.herokuapp.com/221038701159035062760297436/Penunggang.Agama.2.2021.1080p.WEB-DL.mkv
+ 
+#EXTINF:-1 group-title="VOD Tele"="724" tvg-logo="",Fast9 
+#http://chilp.it/c58017a 
+ 
+#EXTINF:-1 group-title="VOD Tele"="724" tvg-logo="", TheKissingBooth3 
+#http://chilp.it/a2a889b 
+
+#EXTINF:-1 group-title="VOD Tele"="724" tvg-logo="", RogueHostage
+#http://chilp.it/b0696cd
+
+#EXTINF:-1 group-title="VOD Tele"="724" tvg-logo="", Hutang2d
+#https://botxdirect.herokuapp.com/152043451104783649424069596/Hutang.2D.2021.1080p.WEBRip-ms.en-PENCURiMOViE.CYOU.mkv
+
+###idm###
+
+#EXTINF:-1 group-title="VOD Idm"="724" tvg-logo="",VIVO chilp 
+#http://chilp.it/c74a110
+
+#EXTINF:-1 group-title="VOD Idm"="724" tvg-logo="",ESCAPE ROOM2
+#https://www.googleapis.com/drive/v3/files/1w9JdqtErc5RbCBpMD8PFRv9k2qddXwJy?alt=media&key=AIzaSyAawt3K31DprMbNOBFtUPiflcVGvOopgJk
