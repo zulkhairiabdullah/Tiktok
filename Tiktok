@@ -980,13 +980,13 @@ http://perfecttv.net:8080/Perfecttv/Perfecttv/2
 http://perfecttv.net:8080/Perfecttv/Perfecttv/3
 #EXTINF:-1 tvg-id="" tvg-name="121 Citra(B)" tvg-logo="https://perfecttv.net/logo/citra.png" group-title="MALAYSIA",121 Citra(B)
 http://perfecttv.net:8080/Perfecttv/Perfecttv/4
-#EXTINF:-1 tvg-id="" tvg-name="803 Arena Bola" tvg-logo="https://perfecttv.net/logo/arenabola.png" group-title="âš½ï¸Ž SPORTS",803 Arena Bola
+#EXTINF:-1 tvg-id="" tvg-name="803 Arena Bola" tvg-logo="https://perfecttv.net/logo/arenabola.png" group-title="SPORTS",803 Arena Bola
 http://perfecttv.net:8080/Perfecttv/Perfecttv/6
-#EXTINF:-1 tvg-id="" tvg-name="804 Arena Bola 2" tvg-logo="https://perfecttv.net/logo/arenabola2.png" group-title="âš½ï¸Ž SPORTS",804 Arena Bola 2
+#EXTINF:-1 tvg-id="" tvg-name="804 Arena Bola 2" tvg-logo="https://perfecttv.net/logo/arenabola2.png" group-title="SPORTS",804 Arena Bola 2
 http://perfecttv.net:8080/Perfecttv/Perfecttv/7
-#EXTINF:-1 tvg-id="" tvg-name="806 Premier League" tvg-logo="https://perfecttv.net/logo/premierleague.png" group-title="âš½ï¸Ž SPORTS",806 Premier League
+#EXTINF:-1 tvg-id="" tvg-name="806 Premier League" tvg-logo="https://perfecttv.net/logo/premierleague.png" group-title="SPORTS",806 Premier League
 http://perfecttv.net:8080/Perfecttv/Perfecttv/8
-#EXTINF:-1 tvg-id="" tvg-name="807 806 Premier League 2" tvg-logo="https://perfecttv.net/logo/premierleague2.png" group-title="âš½ï¸Ž SPORTS",807 806 Premier League 2
+#EXTINF:-1 tvg-id="" tvg-name="807 806 Premier League 2" tvg-logo="https://perfecttv.net/logo/premierleague2.png" group-title="SPORTS",807 806 Premier League 2
 http://perfecttv.net:8080/Perfecttv/Perfecttv/9
 #EXTINF:-1 tvg-id="" tvg-name="127 QJ" tvg-logo="https://perfecttv.net/logo/qj.png" group-title="CHINESE",127 QJ
 http://perfecttv.net:8080/Perfecttv/Perfecttv/11
